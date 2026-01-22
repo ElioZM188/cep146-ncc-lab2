@@ -17,9 +17,15 @@ Git Handbook - https://guides.github.com/introduction/git-handbook/
 
 **Heading level 2: "Tools I Use"**
 
+***Github**
+
+***Visual Studio Code**
+
+***MobaXterm**
+
 **Heading level 2: "Class Schedule"**
 
 |Time       | Course Name     |
 |-----------|-----------------|
 |Monday     | 8:55Am          |
-|Tuesday    |11:45Am          |
+|Tuesday    | 11:45Am          |
