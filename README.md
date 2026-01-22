@@ -7,7 +7,7 @@ Welcome to my academic portfolio for (CEP146-NCC)!
 ## About Me
 - Name: (Elio Zou Mo)
 - Program: (Computer programming program)
-- Year: (2026 1semester)
+- Year: (2026 1semester winter)
 - Favorite Programming Language: (spanish,chinese)
  
 ## Course Goals
