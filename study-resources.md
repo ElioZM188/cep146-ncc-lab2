@@ -25,7 +25,7 @@ Git Handbook - https://guides.github.com/introduction/git-handbook/
 
 **Heading level 2: "Class Schedule"**
 
-|Time       | Course Name     |
-|-----------|-----------------|
-|Monday     | 8:55Am          |
-|Tuesday    | 11:45Am          |
+|Day        |Course          |Time    |
+|-----------|----------------|--------|    
+|Monday     |OPS102 LEC-NCC  |8:55Am  |
+|Thursday   |CEP146 LEC-NCC  |8:00Am  |
