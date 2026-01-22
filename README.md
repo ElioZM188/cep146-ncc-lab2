@@ -8,7 +8,7 @@ Welcome to my academic portfolio for (CEP146-NCC)!
 - Name: (Elio Zou Mo)
 - Program: (Computer programming program)
 - Year: (2026 1semester)
-- Favorite Programming Language: (spanish,chinese)
+- Favorite Programming Language: (github)
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
